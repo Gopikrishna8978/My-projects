@@ -1,0 +1,245 @@
+.local-no
+{
+    text-align: end !important;
+}
+.findlaw-header
+{
+    color: white !important;
+}
+.main-navbar
+{
+    background-color: rgba(62, 62, 65, 0.4) !important;
+    padding-left: 18rem;
+    padding-right: 18rem;
+}
+.image
+{
+    background-image: url("../assests/images/banner-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: revert;
+}
+
+.seasoned_text{
+    color: white ;
+}
+.nav-text{
+    color: white !important;
+    opacity: 0.5;
+}
+.nav-text-num{
+    color: white !important;
+}
+.seasoned_text1
+{
+    text-align: end;
+    padding-top: 7rem;
+    padding-right: 17rem;
+}
+.linkcolor
+{
+    color:turquoise;
+    border-bottom: 2px solid turquoise;
+}
+.hovercolor
+{
+    color: rgb(7, 7, 7);
+    border-bottom: 2px solid rgb(7, 7, 7);
+}
+.Activecolor
+{
+    color: rgb(87, 189, 189);
+   
+}
+.vistedcolor
+{
+    color: aqua;
+    border-bottom: 2px solid aqua;
+}
+.findlaw
+{
+    color: rgb(18, 185, 169);
+    border-bottom: 2px solid rgb(18, 185, 169);
+}
+.findlaw-para{
+    font-size: 18px;
+}
+.lawfrim
+{
+    color: aqua;
+    border-bottom: 2px solid aqua;
+}
+.success-content
+{
+    background-color:  rgb(214, 212, 212);
+}
+.searching
+{
+    color: aqua;
+    border-bottom: 2px solid aqua;
+}
+.card1
+{
+    background-color: black;
+}
+.tittle2
+{
+    color: white;
+}
+.important
+{
+    color: white;
+    font-size: 14px;
+    /* text-align: end; */
+    
+}
+.arrow {
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+ 
+.practice-ares:active{
+    background-color: gray;
+}
+.drop-down-items{
+    padding-left: 80px;
+}
+.footer-col-1{
+    background-color: rgb(8, 158, 133);
+}
+.footer-col-2{
+    background-color: grey;
+}
+.form-placeholder::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color:black;
+    font-weight: 500;
+  }
+  .check-one{
+      color:rgb(221, 214, 214);
+      padding-left: 1rem;
+  }
+.check-two{
+    color: white !important;
+    border-bottom: 1px solid white;
+}
+.check-three{
+    color: rgb(221, 214, 214);
+    border-bottom: 1px solid rgb(221, 214, 214);
+}
+.check-zero{
+    width: 15px;
+    height: 15px;
+}
+.intial{
+    background-color: black;
+}
+.get{
+    color: white;
+    text-align: center;
+}
+.symbol-arrow{
+    color: white;
+    background-color: rgb(70, 119, 165);
+    
+}
+.bg-arrow{
+    background-color: rgb(70, 119, 165);
+}
+.location{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+    color: white;
+}
+.city-map{
+    text-align: right;
+    padding-right: 20px;
+    color: white;
+}
+.city-map-one{
+    padding-right: 40px;
+    text-align: right;
+    
+}
+.map{
+    color:white;
+    border-bottom: 1px solid white;
+
+}
+.icon-one{
+    color: white;
+}
+.findlaw-heading{
+    padding-left: 2rem;
+}
+.location-local{
+    display: flex;
+    padding-left: 2rem;
+    color: white;
+}
+.local{
+    padding-left: 2rem;
+    font-weight: bold;
+
+}
+.local-one{
+    padding-left: 23px;
+    color: white;
+    font-weight: bold;
+}
+.map-one{
+    color: white;
+}
+.map-two{
+    color:white;
+}
+.review-one{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+
+}
+.once{
+    FONT-SIZE: 18px;
+}
+.Frimsites-one{
+    font-size: 18px;
+}
+.not-all{
+    font-size: 18px;
+}
+.low-one{
+    color: rgb(96, 179, 194);
+    border-bottom: 1px solid rgb(96, 179, 194);
+}
+.descliamer{
+    color: rgb(96, 179, 194);
+    border-bottom: 1px solid rgb(96, 179, 194);
+
+}
+.site-map{
+    color: rgb(96, 179, 194);
+    border-bottom: 1px solid rgb(96, 179, 194);
+
+
+}
+.privacy{
+    padding-left: 196px;
+    color: rgb(96, 179, 194);
+    /* border-bottom: 1px solid rgb(96, 179, 194); */
+}
+.law-one{
+    color: rgb(96, 179, 194);
+    border-bottom: 1px solid rgb(96, 179, 194);
+
+}
+.find-law{
+    color: rgb(96, 179, 194);
+    border-bottom: 1px solid rgb(96, 179, 194);
+}
